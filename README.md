@@ -11,7 +11,7 @@ This version marks a major milestone in the project's evolution:
 
 ---
 
-**"Code as natural as human thought!"**
+**"Made for human!"**
 NeoScript is a lightweight programming language. Goal: Make coding as easy as writing English. No `;` or `{}` required.
 
 ---
