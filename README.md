@@ -50,7 +50,7 @@ For the best development experience, we recommend using the following tools:
 
 1. **Download**: Download the source files and extract them to your project folder.
 2. **Setup**: Make sure you have **Python 3.11** or higher installed and added to your **PATH**.
-3. **Code**: Open `ide.ns` with any text editor and write command you want to execute.
+3. **Code**: Open `ide.ns` with any text editor and write command you want to execute in it.
 4. **Run**: Double-click **`run.bat`** to see your code in action.
 
 ---
